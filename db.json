@@ -6,7 +6,7 @@
             "receta": "1 Precalienta el horno a 180 °C (350 °F). Coloca el pollo en un refractario o fuente para hornear, y sazona por dentro y por fuera con el sazón casero dominicano, deja marinar por 1 hora. pasado este tiempo ponemos sal y pimienta. Espolvorea la cebolla en polvo por dentro y por fuera. Coloca 2 cucharadas de margarina dentro del pollo, y acomoda trocitos de la margarina restante sobre la piel del pollo. Corta el apio en 3 o 4 piezas, y coloca dentro del pollo. 2.Hornea sin tapar durante 1 hora y 15 minutos en el horno precalentado, o hasta que se haya cocido completamente. Saca del horno y baña con la margarina derretida. Tapa con papel aluminio y deja reposar durante 10 minutos antes de cortar y servir.",
             "img": "https://github.com/natha-bit/apis_foods/blob/1b0d869da34f67b0fa152afa835f80f8959a340f/plato.png?raw=true"
         },
-                {
+        {
             "id": 2,
             "plato": "Ensalada mixta",
             "receta": "Ponemos en un recipiente con vinagres y sal ponemos las cebollas picadas en cuadritos, importante es que tapemos las cebollas después de echarle la sala y el vinagre yo lo hice con papel de aluminio pero lo pueden hacer con una tapa",
